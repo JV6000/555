@@ -1,0 +1,4 @@
+admin|admin|admin
+dest|dest|mokytoj
+Justinas|123|studentas
+123|123|mokytoj

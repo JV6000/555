@@ -1,0 +1,4 @@
+55|55|student
+kar|kis|student
+Petras|antrasis|studentas
+lll|lll|studentas
